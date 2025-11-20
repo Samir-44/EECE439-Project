@@ -1,7 +1,6 @@
-streamlit
+flask
 tensorflow
 pandas
 numpy
 scikit-learn
 yfinance
-joblib
